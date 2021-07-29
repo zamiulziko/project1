@@ -12,7 +12,8 @@ body{
 }
 .flexiable-container{
     display: flex;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+    padding-top: 50px;
 }
 .half-width{
     width: 50%;
@@ -51,4 +52,9 @@ body{
     border-radius: 15px;
     
     box-shadow: 10px 10px 40px lightgray;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
 }
